@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Archiving the realtime stats of Prague's bus system",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
