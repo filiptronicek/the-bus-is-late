@@ -5,7 +5,7 @@ name: Update data
 
 on:
   schedule:
-    - cron:  '*/10 3-23 * * *' # every second hour
+    - cron:  '*/10 3-23 * * *' # every ten minutes when it isn't night time
 
 jobs:
   update:
