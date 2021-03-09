@@ -11,7 +11,7 @@ const url = "https://mapa.pid.cz/getData.php";
         // get the response body (the method explained below)
         const data = await response.json();
         const date = new Date().toISOString();
-        fs.writeFile(`./data/${date}.json`, JSON.stringify(data), { flag: 'w+' }, (err) => {
+        fs.writeFile(`./data/${date}.json`, JSON.stringify(data, null, 4), { flag: 'w+' }, (err) => {
             if (err) {
                 return console.log(err);
             }
