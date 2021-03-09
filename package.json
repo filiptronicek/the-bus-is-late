@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/filiptronicek/the-bus-is-late/issues"
   },
-  "homepage": "https://github.com/filiptronicek/the-bus-is-late#readme"
+  "homepage": "https://github.com/filiptronicek/the-bus-is-late#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
