@@ -1,0 +1,20 @@
+{
+  "name": "the-bus-is-late",
+  "version": "1.0.0",
+  "description": "Archiving the realtime stats of Prague's bus system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filiptronicek/the-bus-is-late.git"
+  },
+  "keywords": [],
+  "author": "Filip Troníček",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filiptronicek/the-bus-is-late/issues"
+  },
+  "homepage": "https://github.com/filiptronicek/the-bus-is-late#readme"
+}
