@@ -29,5 +29,5 @@ jobs:
     - run: pip install --user kaggle
     - run: mkdir ~/.kaggle
     - run: echo ${{ secrets.KAGGLE_JSON }} > ~/.kaggle/kaggle.json
-    - run: cat $/.kaggle/kaggle.json
+    - run: cat ~/.kaggle/kaggle.json
     - run: ~/.local/bin/kaggle datasets version -p data/ -m "Updated data"
