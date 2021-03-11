@@ -28,6 +28,6 @@ jobs:
 #    - name: Publish new version of the dataset
     - run: pip install kaggle
     - run: mkdir ~/.kaggle
-    - run: export KAGGLE_USERNAME=filiptronicek
-    - run: export KAGGLE_KEY=${{ secrets.KAGGLE_KEY }}
+    - run: echo "export KAGGLE_USERNAME='filiptronicek'" >> ~/.bashrc && source ~/.bashrc
+    - run: echo "export KAGGLE_KEY=${{ secrets.KAGGLE_KEY }}" >> ~/.bashrc && source ~/.bashrc
     - run: ~/.local/bin/kaggle datasets version -p data/ -m "Updated data"
