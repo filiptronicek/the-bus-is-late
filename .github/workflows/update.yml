@@ -24,6 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: update
     steps:
+    - uses: actions/checkout@v2
     - name: Publish new version of the dataset
     - run: pip install kaggle
     - run: mkdir ~/.kaggle &&
