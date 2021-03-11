@@ -1,0 +1,140 @@
+{
+    "title": "PID Bus info in Prague",
+    "subtitle": "All the publicly availible real-time info about the buses in Prague.",
+    "description": "",
+    "id": "filiptronicek/pid-bus-info-in-prague",
+    "isPrivate": true,
+    "licenses": [
+        {
+            "name": "CC-BY-NC-SA-4.0"
+        }
+    ],
+    "keywords": [
+        "europe",
+        "text data",
+        "json"
+    ],
+    "collaborators": [],
+    "data": [
+        {
+            "description": null,
+            "name": "2021-03-09T09_56_49.434Z.json",
+            "totalBytes": 340441,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T10_34_00.445Z.json",
+            "totalBytes": 334308,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T10_43_34.631Z.json",
+            "totalBytes": 292644,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T10_44_33.949Z.json",
+            "totalBytes": 332296,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T10_54_00.655Z.json",
+            "totalBytes": 339041,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T11_15_10.906Z.json",
+            "totalBytes": 341344,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T11_33_22.061Z.json",
+            "totalBytes": 356696,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T11_46_53.803Z.json",
+            "totalBytes": 370873,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T11_54_37.668Z.json",
+            "totalBytes": 382738,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T12_21_37.996Z.json",
+            "totalBytes": 403670,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T12_54_47.403Z.json",
+            "totalBytes": 435192,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T13_19_27.569Z.json",
+            "totalBytes": 463373,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T13_41_13.040Z.json",
+            "totalBytes": 484890,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T13_52_38.244Z.json",
+            "totalBytes": 496091,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T13_56_03.497Z.json",
+            "totalBytes": 498132,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T14_22_54.877Z.json",
+            "totalBytes": 516686,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T14_40_00.923Z.json",
+            "totalBytes": 515312,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T14_51_07.767Z.json",
+            "totalBytes": 521666,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T14_56_04.621Z.json",
+            "totalBytes": 523542,
+            "columns": []
+        },
+        {
+            "description": null,
+            "name": "2021-03-09T15_19_00.618Z.json",
+            "totalBytes": 520626,
+            "columns": []
+        }
+    ]
+}
