@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Publish new version of the dataset
+#    - name: Publish new version of the dataset
     - run: pip install kaggle
     - run: mkdir ~/.kaggle &&
     - run: echo ${{ secrets.GITHUB_TOKEN }} > ~/.kaggle/kaggle.json
