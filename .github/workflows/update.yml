@@ -27,6 +27,6 @@ jobs:
     - uses: actions/checkout@v2
 #    - name: Publish new version of the dataset
     - run: pip install kaggle
-    - run: mkdir ~/.kaggle &&
-    - run: echo ${{ secrets.GITHUB_TOKEN }} > ~/.kaggle/kaggle.json
+    - run: mkdir ~/.kaggle
+    - run: echo ${{ secrets.KAGGLE_JSON }} > ~/.kaggle/kaggle.json
     - run: kaggle datasets version -p data/ -m "Updated data"
