@@ -3,7 +3,7 @@
     "subtitle": "All the publicly availible real-time info about the buses in Prague.",
     "description": "",
     "id": "filiptronicek/pid-bus-info-in-prague",
-    "isPrivate": true,
+    "isPrivate": false,
     "licenses": [
         {
             "name": "CC-BY-NC-SA-4.0"
