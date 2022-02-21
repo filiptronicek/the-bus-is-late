@@ -1,0 +1,77 @@
+{
+    "bottom": "",
+    "trips": {
+        "0": {
+            "lat": 50.09346,
+            "lon": 14.30479,
+            "tripId": "322_31_211129",
+            "route": "322",
+            "routeType": 3,
+            "bearing": 276,
+            "delay": 134,
+            "inactive": false,
+            "statePosition": "on_track",
+            "vehicle": "8793"
+        },
+        "1": {
+            "lat": 50.02832,
+            "lon": 14.45179,
+            "tripId": "113_470_220103",
+            "route": "113",
+            "routeType": 3,
+            "bearing": 184,
+            "delay": 59,
+            "inactive": false,
+            "statePosition": "on_track",
+            "vehicle": "3680"
+        },
+        "2": {
+            "lat": 50.04855,
+            "lon": 14.4826,
+            "tripId": "136_2739_220103",
+            "route": "136",
+            "routeType": 3,
+            "bearing": 341,
+            "delay": 154,
+            "inactive": false,
+            "statePosition": "on_track",
+            "vehicle": "6623"
+        },
+        "3": {
+            "lat": 50.04986,
+            "lon": 14.54376,
+            "tripId": "125_239_201230",
+            "route": "125",
+            "routeType": 3,
+            "bearing": 341,
+            "delay": 6,
+            "inactive": false,
+            "statePosition": "at_stop",
+            "vehicle": "6669"
+        },
+        "4": {
+            "lat": 50.06914,
+            "lon": 14.33517,
+            "tripId": "184_133_210901",
+            "route": "184",
+            "routeType": 3,
+            "bearing": 172,
+            "delay": 18,
+            "inactive": false,
+            "statePosition": "at_stop",
+            "vehicle": "6633"
+        },
+        "5": {
+            "lat": 50.04808,
+            "lon": 14.45476,
+            "tripId": "170_401_220103",
+            "route": "170",
+            "routeType": 3,
+            "bearing": 259,
+            "delay": 25,
+            "inactive": false,
+            "statePosition": "on_track",
+            "vehicle": "3745"
+        }
+    }
+}
