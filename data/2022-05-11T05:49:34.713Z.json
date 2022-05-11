@@ -1,0 +1,53 @@
+{
+    "bottom": "",
+    "trips": {
+        "0": {
+            "lat": 50.029117119078,
+            "lon": 14.405835760746,
+            "tripId": "2_3684_220502",
+            "route": "2",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track",
+            "vehicle": "8419"
+        },
+        "1": {
+            "lat": 50.053069562111,
+            "lon": 14.536861685582,
+            "tripId": "22_7288_220509",
+            "route": "22",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track_delayed",
+            "vehicle": "8460"
+        },
+        "2": {
+            "lat": 50.069852105678,
+            "lon": 14.364034921894,
+            "tripId": "15_5631_220502",
+            "route": "15",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track_delayed",
+            "vehicle": "9350"
+        },
+        "3": {
+            "lat": 50.091288806549,
+            "lon": 14.41762409224,
+            "tripId": "17_5482_220425",
+            "route": "17",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track_delayed",
+            "vehicle": "9243"
+        }
+    }
+}
