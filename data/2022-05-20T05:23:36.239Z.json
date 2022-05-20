@@ -1,0 +1,17 @@
+{
+    "bottom": "",
+    "trips": {
+        "0": {
+            "lat": 50.07593,
+            "lon": 14.34524,
+            "tripId": "184_904_220321",
+            "route": "184",
+            "routeType": 3,
+            "bearing": 82,
+            "delay": 196,
+            "inactive": false,
+            "statePosition": "on_track",
+            "vehicle": "5047"
+        }
+    }
+}
