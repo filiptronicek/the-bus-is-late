@@ -1,0 +1,29 @@
+{
+    "bottom": "",
+    "trips": {
+        "0": {
+            "lat": 50.05710465753,
+            "lon": 14.437880898934,
+            "tripId": "2_1485_220502",
+            "route": "2",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track_delayed",
+            "vehicle": "8384"
+        },
+        "1": {
+            "lat": 50.005089865034,
+            "lon": 14.433307678266,
+            "tripId": "92_708_220422",
+            "route": "92",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track",
+            "vehicle": "8450"
+        }
+    }
+}
