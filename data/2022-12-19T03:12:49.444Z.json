@@ -1,0 +1,66 @@
+{
+    "bottom": "",
+    "alert": "Registrujeme výpadek vstupních dat z vozidel, omlouváme se za případné problémy při zobrazení mapy.",
+    "trips": {
+        "0": {
+            "lat": 50.106780182759,
+            "lon": 14.547141031824,
+            "tripId": "92_14_221204",
+            "route": "92",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track_delayed",
+            "vehicle": "8526"
+        },
+        "1": {
+            "lat": 50.132049713765,
+            "lon": 14.479371960863,
+            "tripId": "93_368_221216",
+            "route": "93",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track",
+            "vehicle": "8414"
+        },
+        "2": {
+            "lat": 50.065359001451,
+            "lon": 14.298384129816,
+            "tripId": "98_368_221204",
+            "route": "98",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track_delayed",
+            "vehicle": "8402"
+        },
+        "3": {
+            "lat": 50.065349336126,
+            "lon": 14.298458379336,
+            "tripId": "99_674_221216",
+            "route": "99",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track_delayed",
+            "vehicle": "8350"
+        },
+        "4": {
+            "lat": 50.031518880519,
+            "lon": 14.367776185838,
+            "tripId": "94_14_221204",
+            "route": "94",
+            "routeType": 0,
+            "bearing": null,
+            "delay": 0,
+            "inactive": true,
+            "statePosition": "before_track",
+            "vehicle": "8485"
+        }
+    }
+}
