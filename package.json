@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/filiptronicek/the-bus-is-late#readme",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
